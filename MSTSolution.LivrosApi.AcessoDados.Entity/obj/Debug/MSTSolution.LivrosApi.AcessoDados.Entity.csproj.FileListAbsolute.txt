@@ -1,0 +1,16 @@
+C:\Users\Matheus\source\repos\MSTSolution.LivrosApi\MSTSolution.LivrosApi.AcessoDados.Entity\bin\Debug\MSTSolution.LivrosApi.AcessoDados.Entity.dll.config
+C:\Users\Matheus\source\repos\MSTSolution.LivrosApi\MSTSolution.LivrosApi.AcessoDados.Entity\bin\Debug\MSTSolution.LivrosApi.AcessoDados.Entity.dll
+C:\Users\Matheus\source\repos\MSTSolution.LivrosApi\MSTSolution.LivrosApi.AcessoDados.Entity\bin\Debug\MSTSolution.LivrosApi.AcessoDados.Entity.pdb
+C:\Users\Matheus\source\repos\MSTSolution.LivrosApi\MSTSolution.LivrosApi.AcessoDados.Entity\bin\Debug\EntityFramework.dll
+C:\Users\Matheus\source\repos\MSTSolution.LivrosApi\MSTSolution.LivrosApi.AcessoDados.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Matheus\source\repos\MSTSolution.LivrosApi\MSTSolution.LivrosApi.AcessoDados.Entity\bin\Debug\MSTSolution.LivrosApi.Dominio.dll
+C:\Users\Matheus\source\repos\MSTSolution.LivrosApi\MSTSolution.LivrosApi.AcessoDados.Entity\bin\Debug\MSTSolution.LivrosApi.Dominio.pdb
+C:\Users\Matheus\source\repos\MSTSolution.LivrosApi\MSTSolution.LivrosApi.AcessoDados.Entity\bin\Debug\EntityFramework.xml
+C:\Users\Matheus\source\repos\MSTSolution.LivrosApi\MSTSolution.LivrosApi.AcessoDados.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Matheus\source\repos\MSTSolution.LivrosApi\MSTSolution.LivrosApi.AcessoDados.Entity\obj\Debug\MSTSolution.LivrosApi.AcessoDados.Entity.csprojAssemblyReference.cache
+C:\Users\Matheus\source\repos\MSTSolution.LivrosApi\MSTSolution.LivrosApi.AcessoDados.Entity\obj\Debug\MSTSolution.LivrosApi.AcessoDados.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\MSTSolution.LivrosApi\MSTSolution.LivrosApi.AcessoDados.Entity\obj\Debug\MSTSolution.LivrosApi.AcessoDados.Entity.csproj.CopyComplete
+C:\Users\Matheus\source\repos\MSTSolution.LivrosApi\MSTSolution.LivrosApi.AcessoDados.Entity\obj\Debug\MSTSolution.LivrosApi.AcessoDados.Entity.dll
+C:\Users\Matheus\source\repos\MSTSolution.LivrosApi\MSTSolution.LivrosApi.AcessoDados.Entity\obj\Debug\MSTSolution.LivrosApi.AcessoDados.Entity.pdb
+C:\Users\Matheus\source\repos\MSTSolution.LivrosApi\MSTSolution.LivrosApi.AcessoDados.Entity\obj\Debug\MSTSolution.LivrosApi.AcessoDados.Entity.Migrations.CriacaoTabelaLivros.resources
+C:\Users\Matheus\source\repos\MSTSolution.LivrosApi\MSTSolution.LivrosApi.AcessoDados.Entity\obj\Debug\MSTSolution.LivrosApi.AcessoDados.Entity.csproj.GenerateResource.cache

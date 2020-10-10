@@ -1,0 +1,5 @@
+C:\Users\Matheus\source\repos\MSTSolution.LivrosApi\MSTSolution.LivrosApi.Dominio\bin\Debug\MSTSolution.LivrosApi.Dominio.dll
+C:\Users\Matheus\source\repos\MSTSolution.LivrosApi\MSTSolution.LivrosApi.Dominio\bin\Debug\MSTSolution.LivrosApi.Dominio.pdb
+C:\Users\Matheus\source\repos\MSTSolution.LivrosApi\MSTSolution.LivrosApi.Dominio\obj\Debug\MSTSolution.LivrosApi.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\MSTSolution.LivrosApi\MSTSolution.LivrosApi.Dominio\obj\Debug\MSTSolution.LivrosApi.Dominio.dll
+C:\Users\Matheus\source\repos\MSTSolution.LivrosApi\MSTSolution.LivrosApi.Dominio\obj\Debug\MSTSolution.LivrosApi.Dominio.pdb
