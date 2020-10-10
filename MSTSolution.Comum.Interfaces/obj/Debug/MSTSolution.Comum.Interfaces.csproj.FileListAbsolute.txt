@@ -1,0 +1,6 @@
+C:\Users\Matheus\source\repos\MSTSolution.LivrosApi\MSTSolution.Comum.Interfaces\bin\Debug\MSTSolution.Comum.Interfaces.dll
+C:\Users\Matheus\source\repos\MSTSolution.LivrosApi\MSTSolution.Comum.Interfaces\bin\Debug\MSTSolution.Comum.Interfaces.pdb
+C:\Users\Matheus\source\repos\MSTSolution.LivrosApi\MSTSolution.Comum.Interfaces\obj\Debug\MSTSolution.Comum.Interfaces.csprojAssemblyReference.cache
+C:\Users\Matheus\source\repos\MSTSolution.LivrosApi\MSTSolution.Comum.Interfaces\obj\Debug\MSTSolution.Comum.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\MSTSolution.LivrosApi\MSTSolution.Comum.Interfaces\obj\Debug\MSTSolution.Comum.Interfaces.dll
+C:\Users\Matheus\source\repos\MSTSolution.LivrosApi\MSTSolution.Comum.Interfaces\obj\Debug\MSTSolution.Comum.Interfaces.pdb

@@ -1,0 +1,14 @@
+C:\Users\Matheus\source\repos\MSTSolution.LivrosApi\MSTSolution.Repositorios.Entity\bin\Debug\MSTSolution.Repositorios.Entity.dll.config
+C:\Users\Matheus\source\repos\MSTSolution.LivrosApi\MSTSolution.Repositorios.Entity\bin\Debug\MSTSolution.Repositorios.Entity.dll
+C:\Users\Matheus\source\repos\MSTSolution.LivrosApi\MSTSolution.Repositorios.Entity\bin\Debug\MSTSolution.Repositorios.Entity.pdb
+C:\Users\Matheus\source\repos\MSTSolution.LivrosApi\MSTSolution.Repositorios.Entity\bin\Debug\EntityFramework.dll
+C:\Users\Matheus\source\repos\MSTSolution.LivrosApi\MSTSolution.Repositorios.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Matheus\source\repos\MSTSolution.LivrosApi\MSTSolution.Repositorios.Entity\bin\Debug\MSTSolution.Comum.Interfaces.dll
+C:\Users\Matheus\source\repos\MSTSolution.LivrosApi\MSTSolution.Repositorios.Entity\bin\Debug\MSTSolution.Comum.Interfaces.pdb
+C:\Users\Matheus\source\repos\MSTSolution.LivrosApi\MSTSolution.Repositorios.Entity\bin\Debug\EntityFramework.xml
+C:\Users\Matheus\source\repos\MSTSolution.LivrosApi\MSTSolution.Repositorios.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Matheus\source\repos\MSTSolution.LivrosApi\MSTSolution.Repositorios.Entity\obj\Debug\MSTSolution.Repositorios.Entity.csprojAssemblyReference.cache
+C:\Users\Matheus\source\repos\MSTSolution.LivrosApi\MSTSolution.Repositorios.Entity\obj\Debug\MSTSolution.Repositorios.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\MSTSolution.LivrosApi\MSTSolution.Repositorios.Entity\obj\Debug\MSTSolution.Repositorios.Entity.csproj.CopyComplete
+C:\Users\Matheus\source\repos\MSTSolution.LivrosApi\MSTSolution.Repositorios.Entity\obj\Debug\MSTSolution.Repositorios.Entity.dll
+C:\Users\Matheus\source\repos\MSTSolution.LivrosApi\MSTSolution.Repositorios.Entity\obj\Debug\MSTSolution.Repositorios.Entity.pdb
