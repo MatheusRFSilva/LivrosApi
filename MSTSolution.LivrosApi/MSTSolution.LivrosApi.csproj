@@ -45,6 +45,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System" />
     <Reference Include="System.Data" />
@@ -156,6 +162,7 @@
     <Compile Include="Areas\HelpPage\SampleGeneration\TextSample.cs" />
     <Compile Include="Areas\HelpPage\XmlDocumentationProvider.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\LivrosController.cs" />
     <Compile Include="Controllers\ValuesController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -216,6 +223,7 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
+    <Folder Include="Views\Livros\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
@@ -245,6 +253,28 @@
     <None Include="packages.config" />
     <Content Include="Scripts\jquery-3.4.1.slim.min.map" />
     <Content Include="Scripts\jquery-3.4.1.min.map" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MSTSolution.Comum.Interfaces\MSTSolution.Comum.Interfaces.csproj">
+      <Project>{26937aff-04f5-4862-bcc9-8e2440469b84}</Project>
+      <Name>MSTSolution.Comum.Interfaces</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MSTSolution.LivrosApi.AcessoDados.Entity\MSTSolution.LivrosApi.AcessoDados.Entity.csproj">
+      <Project>{54003e5d-11f9-4136-8024-fa3fc400ca4c}</Project>
+      <Name>MSTSolution.LivrosApi.AcessoDados.Entity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MSTSolution.LivrosApi.Dominio\MSTSolution.LivrosApi.Dominio.csproj">
+      <Project>{cce2738c-409c-4569-acc5-90ad8a65a2e0}</Project>
+      <Name>MSTSolution.LivrosApi.Dominio</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MSTSolution.LivrosApi.Repositorios.Entity\MSTSolution.LivrosApi.Repositorios.Entity.csproj">
+      <Project>{f8219458-8d1b-4593-b3e6-56ec293db1d2}</Project>
+      <Name>MSTSolution.LivrosApi.Repositorios.Entity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MSTSolution.Repositorios.Entity\MSTSolution.Comum.Repositorios.Entity.csproj">
+      <Project>{2eb292eb-4d25-4ef7-8f69-d8b3011a10cd}</Project>
+      <Name>MSTSolution.Comum.Repositorios.Entity</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

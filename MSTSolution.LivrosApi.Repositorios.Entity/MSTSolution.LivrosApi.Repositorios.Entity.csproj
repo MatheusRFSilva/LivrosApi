@@ -49,10 +49,29 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RepositorioLivros.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MSTSolution.Comum.Interfaces\MSTSolution.Comum.Interfaces.csproj">
+      <Project>{26937aff-04f5-4862-bcc9-8e2440469b84}</Project>
+      <Name>MSTSolution.Comum.Interfaces</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MSTSolution.LivrosApi.AcessoDados.Entity\MSTSolution.LivrosApi.AcessoDados.Entity.csproj">
+      <Project>{54003e5d-11f9-4136-8024-fa3fc400ca4c}</Project>
+      <Name>MSTSolution.LivrosApi.AcessoDados.Entity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MSTSolution.LivrosApi.Dominio\MSTSolution.LivrosApi.Dominio.csproj">
+      <Project>{cce2738c-409c-4569-acc5-90ad8a65a2e0}</Project>
+      <Name>MSTSolution.LivrosApi.Dominio</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MSTSolution.Repositorios.Entity\MSTSolution.Comum.Repositorios.Entity.csproj">
+      <Project>{2eb292eb-4d25-4ef7-8f69-d8b3011a10cd}</Project>
+      <Name>MSTSolution.Comum.Repositorios.Entity</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

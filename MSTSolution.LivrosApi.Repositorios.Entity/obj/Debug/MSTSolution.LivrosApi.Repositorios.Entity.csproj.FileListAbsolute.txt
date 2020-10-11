@@ -10,3 +10,13 @@ C:\Users\Matheus\source\repos\MSTSolution.LivrosApi\MSTSolution.LivrosApi.Reposi
 C:\Users\Matheus\source\repos\MSTSolution.LivrosApi\MSTSolution.LivrosApi.Repositorios.Entity\obj\Debug\MSTSolution.LivrosApi.Repositorios.Entity.csproj.CopyComplete
 C:\Users\Matheus\source\repos\MSTSolution.LivrosApi\MSTSolution.LivrosApi.Repositorios.Entity\obj\Debug\MSTSolution.LivrosApi.Repositorios.Entity.dll
 C:\Users\Matheus\source\repos\MSTSolution.LivrosApi\MSTSolution.LivrosApi.Repositorios.Entity\obj\Debug\MSTSolution.LivrosApi.Repositorios.Entity.pdb
+C:\Users\Matheus\source\repos\MSTSolution.LivrosApi\MSTSolution.LivrosApi.Repositorios.Entity\bin\Debug\MSTSolution.Comum.Interfaces.dll
+C:\Users\Matheus\source\repos\MSTSolution.LivrosApi\MSTSolution.LivrosApi.Repositorios.Entity\bin\Debug\MSTSolution.LivrosApi.AcessoDados.Entity.dll
+C:\Users\Matheus\source\repos\MSTSolution.LivrosApi\MSTSolution.LivrosApi.Repositorios.Entity\bin\Debug\MSTSolution.LivrosApi.Dominio.dll
+C:\Users\Matheus\source\repos\MSTSolution.LivrosApi\MSTSolution.LivrosApi.Repositorios.Entity\bin\Debug\MSTSolution.Repositorios.Entity.dll
+C:\Users\Matheus\source\repos\MSTSolution.LivrosApi\MSTSolution.LivrosApi.Repositorios.Entity\bin\Debug\MSTSolution.Comum.Interfaces.pdb
+C:\Users\Matheus\source\repos\MSTSolution.LivrosApi\MSTSolution.LivrosApi.Repositorios.Entity\bin\Debug\MSTSolution.LivrosApi.AcessoDados.Entity.pdb
+C:\Users\Matheus\source\repos\MSTSolution.LivrosApi\MSTSolution.LivrosApi.Repositorios.Entity\bin\Debug\MSTSolution.LivrosApi.AcessoDados.Entity.dll.config
+C:\Users\Matheus\source\repos\MSTSolution.LivrosApi\MSTSolution.LivrosApi.Repositorios.Entity\bin\Debug\MSTSolution.LivrosApi.Dominio.pdb
+C:\Users\Matheus\source\repos\MSTSolution.LivrosApi\MSTSolution.LivrosApi.Repositorios.Entity\bin\Debug\MSTSolution.Repositorios.Entity.pdb
+C:\Users\Matheus\source\repos\MSTSolution.LivrosApi\MSTSolution.LivrosApi.Repositorios.Entity\bin\Debug\MSTSolution.Repositorios.Entity.dll.config
